@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Created by Tracker Checker 2-->
+<trackers>
+<tracker><name>1BT.ru</name><signup>http://www.1bt.ru/signup.php</signup><check>Desired username</check><type>True</type></tracker>
+<tracker><name>Anderssons.ath.cx</name><signup>http://anderssons.ath.cx/signup.php</signup><check>Desired username</check><type>True</type></tracker>
+<tracker><name>Arab-Files.org</name><signup>http://www.arab-files.org/signup.php</signup><check>Desired username</check><type>True</type></tracker>
+<tracker><name>ArabFilms.org</name><signup>http://www.arabfilms.org/signup.php</signup><check>Desired username</check><type>True</type></tracker>
+<tracker><name>AradiTracker.com</name><signup>http://www.araditracker.com/account.php</signup><check>Desired username</check><type>True</type></tracker>
+<tracker><name>AudioNews.ru</name><signup>http://www.audionews.ru/signup.php</signup><check>Desired username</check><type>True</type></tracker>
+<tracker><name>Beuqen.nl</name><signup>http://www.beuqen.nl/signup.php</signup><check>Desired username</check><type>True</type></tracker>
+<tracker><name>BitMe.org</name><signup>http://www.bitme.org/signup.php</signup><check>Desired username</check><type>True</type></tracker>
+<tracker><name>BitMeTv.org</name><signup>http://www.bitmetv.org/signup.php</signup><check>Desired username</check><type>True</type></tracker>
+<tracker><name>BitSoup.org</name><signup>http://www.bitsoup.org/signup.php</signup><check>Desired username</check><type>True</type></tracker>
+<tracker><name>BootyTorrents.com</name><signup>http://www.bootytorrents.com/signup.php</signup><check>Desired username</check><type>False</type></tracker>
+<tracker><name>BoxBit.org</name><signup>http://www.boxbit.org/register.php</signup><check>Verify Password</check><type>True</type></tracker>
+<tracker><name>BT.XBox-Sky.com</name><signup>http://bt.xbox-sky.com/register.php</signup><check>Password confirm</check><type>True</type></tracker>
+<tracker><name>DanishBits.org</name><signup>http://www.danishbits.org/signup.php</signup><check>Desired username</check><type>True</type></tracker>
+<tracker><name>Demonoid.com</name><signup>http://www.demonoid.com/register.php</signup><check>!closed</check><type>True</type></tracker>
+<tracker><name>DutchNova.com</name><signup>http://www.dutchnova.com/signup.php</signup><check>Gewenste Gebruikers Naam</check><type>True</type></tracker>
+<tracker><name>Empornium.us</name><signup>http://www.empornium.us/signup.php</signup><check>Desired username</check><type>False</type></tracker>
+<tracker><name>EvolutionTT.org</name><signup>http://www.evolutiontt.org/signup.php</signup><check>Desired username</check><type>True</type></tracker>
+<tracker><name>FileBits.org</name><signup>http://www.filebits.org/signup.php</signup><check>eslo</check><type>True</type></tracker>
+<tracker><name>FileList.org</name><signup>http://www.filelist.org/signup.php</signup><check>Desired username</check><type>True</type></tracker>
+<tracker><name>FileMP3.org</name><signup>http://www.filemp3.org/signup.php</signup><check>Desired username</check><type>True</type></tracker>
+<tracker><name>FilePorn.org</name><signup>http://www.fileporn.org/signup.php</signup><check>Desired username</check><type>False</type></tracker>
+<tracker><name>HDTVTorrents.net</name><signup>http://www.hdtvtorrents.net/signup.php</signup><check>password</check><type>True</type></tracker>
+<tracker><name>HomemadePornTorrents.com</name><signup>http://www.homemadeporntorrents.com/signup.php</signup><check>Desired username</check><type>False</type></tracker>
+<tracker><name>ILoveTorrents.com</name><signup>http://www.ilovetorrents.com/signup.php</signup><check>Desired username</check><type>True</type></tracker>
+<tracker><name>IndieTorrents.com</name><signup>http://www.indietorrents.com/signup.php</signup><check>Desired username</check><type>True</type></tracker>
+<tracker><name>Katastrofa.com</name><signup>http://www.katastrofa.com/account-signup.php</signup><check>Confirm</check><type>True</type></tracker>
+<tracker><name>Libble.com</name><signup>http://www.libble.com/signup.php</signup><check>Desired username</check><type>True</type></tracker>
+<tracker><name>MixerMusic.net</name><signup>http://www.mixermusic.net/signup.php</signup><check>Login Name</check><type>True</type></tracker>
+<tracker><name>MovieHouse.nl</name><signup>http://www.moviehouse.nl/signup.php</signup><check>Gewenste gebruikersnaam</check><type>True</type></tracker>
+<tracker><name>MP3share.net</name><signup>http://www.mp3share.net/tracker_v3/signup.php</signup><check>Desired username</check><type>True</type></tracker>
+<tracker><name>MuffTorrent.com</name><signup>http://www.mufftorrent.com/account-signup.php</signup><check>Confirm</check><type>True</type></tracker>
+<tracker><name>MySpleen.net</name><signup>http://www.myspleen.net/signup.php</signup><check>Desired username</check><type>True</type></tracker>
+<tracker><name>Nordic-T.org</name><signup>http://www.nordic-t.org/signup.php</signup><check>Desired username</check><type>True</type></tracker>
+<tracker><name>Noviteti.com</name><signup>http://www.noviteti.com/signup.php</signup><check>ozinka</check><type>True</type></tracker>
+<tracker><name>OiNK</name><signup>http://oink.me.uk/signup.php</signup><check>Desired username</check><type>True</type></tracker>
+<tracker><name>PianoSheets.org</name><signup>http://www.pianosheets.org/signup.php</signup><check>Desired username</check><type>True</type></tracker>
+<tracker><name>PirateBits.org</name><signup>http://www.piratebits.org/signup.php</signup><check>E-postadress</check><type>True</type></tracker>
+<tracker><name>PiSexy.org</name><signup>http://www.pisexy.org/join.php</signup><check>Desired username</check><type>True</type></tracker>
+<tracker><name>Podzemlje.com</name><signup>http://www.podzemlje.com/tb/signup.php</signup><check>Ima naloga</check><type>True</type></tracker>
+<tracker><name>PolishTracker.org</name><signup>http://polishtracker.org/signup.php?lang=1</signup><check>Desired username</check><type>True</type></tracker>
+<tracker><name>PornBits.net</name><signup>http://www.pornbits.net/signup.php</signup><check>Desired username</check><type>False</type></tracker>
+<tracker><name>PornYU.com</name><signup>http://www.pornyu.com/signup.php</signup><check>Zeljeno Korisnicko Ime</check><type>False</type></tracker>
+<tracker><name>POTUK</name><signup>http://tracker.potuk.info/signup.php</signup><check>Desired username</check><type>True</type></tracker>
+<tracker><name>PureTNA.com</name><signup>http://www.puretna.com/signup.php</signup><check>Desired username</check><type>True</type></tracker>
+<tracker><name>PussyTorrents.org</name><signup>http://www.pussytorrents.org/signup2.php</signup><check>Desired username</check><type>True</type></tracker>
+<tracker><name>Revolt.org.uk</name><signup>http://www.revolt.org.uk/signup.php</signup><check>Desired username</check><type>True</type></tracker>
+<tracker><name>ShareTorrents.pl</name><signup>http://www.sharetorrents.pl/signup.php</signup><check>Desired username</check><type>True</type></tracker>
+<tracker><name>SloBytes.net</name><signup>http://www.slobytes.net/signup.php</signup><check>ime</check><type>True</type></tracker>
+<tracker><name>SuperTorrents.org</name><signup>http://www.supertorrents.org/signup.php</signup><check>Desired username</check><type>True</type></tracker>
+<tracker><name>SupremeTorrents.co.uk</name><signup>http://tracker.supremetorrents.co.uk/account.php?action=signup</signup><check>Desired username</check><type>True</type></tracker>
+<tracker><name>SweBits.org</name><signup>http://www.swebits.org/signup.php</signup><check>senord</check><type>True</type></tracker>
+<tracker><name>SweTorrents.no-ip.org</name><signup>http://swetorrents.no-ip.org/signup.php</signup><check>senord</check><type>True</type></tracker>
+<tracker><name>TeknoMassif.com</name><signup>http://www.teknomassif.com/signup.php</signup><check>Desired username</check><type>True</type></tracker>
+<tracker><name>TeraBT.net</name><signup>http://www.terabt.net/signup.php</signup><check>Desired username</check><type>True</type></tracker>
+<tracker><name>TheMixingBowl.org</name><signup>http://www.themixingbowl.org/signup.php</signup><check>Desired username</check><type>True</type></tracker>
+<tracker><name>TorrentBytes.net</name><signup>http://www.torrentbytes.net/signup.php</signup><check>Desired username</check><type>True</type></tracker>
+<tracker><name>Torrent-Damage.net</name><signup>http://www.torrent-damage.net/signup.php</signup><check>Desired username</check><type>True</type></tracker>
+<tracker><name>TorrentIt.com</name><signup>http://www.torrentit.com/signup.php</signup><check>Desired username</check><type>True</type></tracker>
+<tracker><name>TorrentLeech.org</name><signup>http://www.torrentleech.org/signup.php</signup><check>Desired username</check><type>True</type></tracker>
+<tracker><name>Torrent-Plaza.no-ip.org</name><signup>http://torrent-plaza.no-ip.org/signup.php</signup><check>Desired username</check><type>True</type></tracker>
+<tracker><name>Tracker.Traasje.nl</name><signup>http://tracker.traasje.nl/signup.php</signup><check>Gewenste Gebruikersnaam</check><type>True</type></tracker>
+<tracker><name>TranceTraffic.com</name><signup>http://www.trancetraffic.com/signup.php</signup><check>Desired username</check><type>True</type></tracker>
+<tracker><name>UKnova.com</name><signup>http://www.uknova.com/signup.php</signup><check>Desired username</check><type>True</type></tracker>
+<tracker><name>Underground-Gamer.com</name><signup>http://www.underground-gamer.com/signup.php</signup><check>Desired username</check><type>True</type></tracker>
+<tracker><name>UrbanChaosVideos.org</name><signup>http://www.urbanchaosvideos.org/signup.php</signup><check>Desired username</check><type>True</type></tracker>
+<tracker><name>Wild-Bytes.org</name><signup>http://www.wild-bytes.org/signup.php</signup><check>Desired username</check><type>True</type></tracker>
+<tracker><name>ZombTracker.the-zomb.com</name><signup>http://zombtracker.the-zomb.com/signup.php</signup><check>Desired username</check><type>True</type></tracker>
+</trackers>
